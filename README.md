@@ -1,2 +1,26 @@
-# web-common-config
-web common config / 前端公用配置
+
+日常前端开发用到的一些工具和配置文件
+
+Vue
+----
+
+React
+----  
+
+代码规范
+----  
+
+ webstorm
+---- 
+
+vscode
+----   
+
+模板
+----   
+
+自动化
+----   
+
+工具类
+----   
